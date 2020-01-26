@@ -6,7 +6,9 @@ Algorithm:
 1. start from 1st index,if any element is greater than current element,
  then shift that element to one position right, finally when condition fails means
  no lesser element than current element then place current at that position.
-
+Time Complexity:
+best case: O(n)
+worst case: O(n2)
 */
 
 
